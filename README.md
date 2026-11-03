@@ -1,3 +1,5 @@
+**Tech stack:** C#, ASP.NET Core 10, Blazor, Entity Framework Core, SQL Server 2022, Docker Compose, GitHub Actions
+
 # StockFlow
 
 An order and inventory workspace for small businesses. ASP.NET Core 10, C#, EF Core, SQL Server 2022, and interactive Blazor, served as one application.
